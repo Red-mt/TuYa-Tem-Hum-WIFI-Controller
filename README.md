@@ -1,5 +1,5 @@
-## This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
-## For more information, please check Tuya Developer Website.
+#### This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
+#### For more information, please check Tuya Developer Website.
 # TuYa-Tem-Hum-WIFI-Controller
 # 【涂鸦智能】 基于Arduino的智能除湿工控器
 
@@ -106,7 +106,7 @@ HUMLOWER.a = (int)minihum_set;
     EEPROM.write(n+4, HUMLOWER.b[n]);//写入湿度下限到EEPROM,下限起始地址是4
 ```
 
-7、问题处理
+7、问题处理/Problem avoidance
 * 始终无法进入配网模式：SHT的底层库有500ms延时，在循环里调用读取时，我实测要7s才能返回给wifi模块心跳，始终连不上网，也无法进去配网模式，然后我就改了底层的延迟，问题就解决了;（可能还有其他解决的方式，我暂时还没有发现）
  * Unable to enter the distribution network mode: the underlying Library of sht has a delay of 500ms. When I call and read in the loop, it takes me 7S to return to the WiFi module. I can't enter the distribution network mode even if I don't connect to the Internet. Then I change the underlying delay and the problem is solved. (there may be other solutions, which I haven't found yet.)
 
@@ -125,10 +125,10 @@ boolean Adafruit_SHT31::readTempHum(void) {
   //  Serial.print("0x"); Serial.println(readbuffer[i], HEX);
   }
 ```
-# 项目实例
-## 实际演示视频链接
+# 项目实例/Project examples
+## 实际演示视频链接/Test video
 演示视频已经放在文件中。[此页面末尾有演示视频 Video page](https://oshwhub.com/Red_mt/ming-ri-wu-xian-wen-shi-du-zhuan-gan-qi);
-## DEMO照片 App截屏
+## 实物照片 App截屏/Demo Picture
 ![Image of Yaktocat](https://image.lceda.cn/pullimage/iexv85bvTUkbJ16IA4y0KFnxqGfuu7jssvWeOsSe.jpeg)
 
 
