@@ -1,4 +1,4 @@
-## This project is developed using T uya SDK, which enables you to quickly develop branded apps connect ing and cont rolling smart scenarios of many devices.For more inf ormation, please check Tuya Developer Website.
+## This project is developed using Tuya SDK, which enables you to quickly develop branded apps connect ing and cont rolling smart scenarios of many devices.For more inf ormation, please check Tuya Developer Website.
 # TuYa-Tem-Hum-WIFI-Controller
 # 【涂鸦智能】 基于Arduino的智能除湿工控器
 
