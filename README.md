@@ -123,7 +123,7 @@ boolean Adafruit_SHT31::readTempHum(void) {
 ```
 # 项目实例
 ## DEMO照片 App截屏
-![Image of Yaktocat](https://image.lceda.cn/pullimage/iexv85bvTUkbJ16IA4y0KFnxqGfuu7jssvWeOsSe.jpeg)
+![Image of Yaktocat]()
 
 ## 实际演示视频链接
 页面末尾有演示视频，[视频界面 Video page](https://oshwhub.com/Red_mt/ming-ri-wu-xian-wen-shi-du-zhuan-gan-qi);
