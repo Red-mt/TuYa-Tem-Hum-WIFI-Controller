@@ -2,15 +2,6 @@ This project is developed using T uya SDK, which enables you to quickly develop 
 # TuYa-Tem-Hum-WIFI-Controller
 # 【涂鸦智能】 基于Arduino的智能除湿工控器
 
-如何写好⼀个README呢？
-需要提供中英⽂版本，内容包括：
- 项⽬的简单介绍
- 项⽬的使⽤教程介绍，包括配套的硬件设备，使⽤的涂鸦SDK类型和版本号，如何运⾏
-项⽬等
- 项⽬相关的demo照⽚，App截屏，视频链接等
- 项⽬使⽤的开源License⽂件，如MIT
- 项⽬作者名称（可选）
-
 # 项目简介/Project brief
 1、基于`Arduino`设计的工业除湿控制器，`WIFI联网`，报警上报，项目理念适用于`大型除湿机`（如滑冰场除湿）； 
 * The industrial dehumidification controller based on `Arduino`, `WiFi networking,` alarm reporting, project concept is suitable for `large dehumidifiers` (such as ice rink dehumidification);
