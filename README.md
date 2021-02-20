@@ -61,11 +61,10 @@ This project is developed using T uya SDK, which enables you to quickly develop 
 3、烧录程序或程序改些，可以参考[MCU_SDK使用指导文档链接](https://docs.tuya.com/zh/iot/device-development/access-mode-mcu/wifi-general-solution/software-reference-wifi/overview-of-migrating-tuyas-mcu-sdk?id=K9hhi0xr5vll9)
 * For the burning program or program modification, please refer to [MCU_SDK Using the tutorial](https://docs.tuya.com/zh/iot/device-development/access-mode-mcu/wifi-general-solution/software-reference-wifi/overview-of-migrating-tuyas-mcu-sdk?id=K9hhi0xr5vll9)
 # 项目实例
-## DEMO照片
-
-## App截屏
+## DEMO照片 App截屏
+![Image of Yaktocat](https://image.lceda.cn/pullimage/iexv85bvTUkbJ16IA4y0KFnxqGfuu7jssvWeOsSe.jpeg)
 
 ## 实际演示视频链接
-
+页面末尾有演示视频，[视频界面 Video page](https://oshwhub.com/Red_mt/ming-ri-wu-xian-wen-shi-du-zhuan-gan-qi);
 项目使用的开源License 是 MIT/The open source license used in the project is MIT
-==
+--
