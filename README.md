@@ -1,4 +1,5 @@
-## This project is developed using Tuya SDK, which enables you to quickly develop branded apps connect ing and cont rolling smart scenarios of many devices.For more inf ormation, please check Tuya Developer Website.
+## This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
+## For more information, please check Tuya Developer Website.
 # TuYa-Tem-Hum-WIFI-Controller
 # 【涂鸦智能】 基于Arduino的智能除湿工控器
 
@@ -122,11 +123,12 @@ boolean Adafruit_SHT31::readTempHum(void) {
   }
 ```
 # 项目实例
+## 实际演示视频链接
+演示视频已经放在文件中。[此页面末尾有演示视频 Video page](https://oshwhub.com/Red_mt/ming-ri-wu-xian-wen-shi-du-zhuan-gan-qi);
 ## DEMO照片 App截屏
 ![Image of Yaktocat](https://image.lceda.cn/pullimage/iexv85bvTUkbJ16IA4y0KFnxqGfuu7jssvWeOsSe.jpeg)
 
-## 实际演示视频链接
-页面末尾有演示视频，[视频界面 Video page](https://oshwhub.com/Red_mt/ming-ri-wu-xian-wen-shi-du-zhuan-gan-qi);
+
 
 
 >#### 项目使用的开源License 是 MIT/The open source license used in the project is MIT
