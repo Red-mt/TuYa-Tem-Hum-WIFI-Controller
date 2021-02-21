@@ -1,6 +1,9 @@
 #### This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
 #### For more information, please check Tuya Developer Website.
 # 【涂鸦智能】 基于Arduino的智能除湿工控器
+难度指数 | :heart::white_heart::white_heart::white_heart::white_heart:
+-----------|-----------
+推荐指数 | :heart::heart::heart::heart::heart:
 # 项目简介/Project brief
 1、基于`Arduino`设计的工业除湿控制器，`WIFI联网`，报警上报，项目理念适用于`大型除湿机`（如滑冰场除湿）； 
 
