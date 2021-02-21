@@ -1,8 +1,7 @@
 #### This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
 #### For more information, please check Tuya Developer Website.
+ZH中文版:point_right::point_right::point_right:[中文版 Readme.md](https://github.com/Red-mt/TuYa-Tem-Hum-WIFI-Controller/blob/main/README-zh.md)
 # TuYa-Tem-Hum-WIFI-Controller_Based on Arduino
-
-
 # Project brief
 1、The industrial dehumidification controller based on `Arduino`, `WiFi networking,` alarm reporting, project concept is suitable for `large dehumidifiers` (such as ice rink dehumidification);
 
