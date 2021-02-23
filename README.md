@@ -1,6 +1,6 @@
 #### This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
 #### For more information, please check Tuya Developer Website.
-#### :point_right::point_right::point_right:[中文版 Readme.md](https://github.com/Red-mt/TuYa-Tem-Hum-WIFI-Controller/blob/main/README-zh.md)
+#### :point_right::point_right::point_right:[中文版 Readme-zh.md](https://github.com/Red-mt/TuYa-Tem-Hum-WIFI-Controller/blob/main/README-zh.md)
 # TuYa-Tem-Hum-WIFI-Controller_Based on Arduino
 Difficulty | :heart::white_heart::white_heart::white_heart::white_heart:
 -----------|-----------
