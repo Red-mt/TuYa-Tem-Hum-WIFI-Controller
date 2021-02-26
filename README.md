@@ -77,7 +77,7 @@ data HUMUPPR;
 data HUMLOWER;
 for (int n = 0; n &lt; 4; n++) //read EEPROM
     HUMUPPR.b[n] = EEPROM.read(n);
-  for (int n = 0; n &lt; 4; n++)//resd EEPROM,begin with 4
+  for (int n = 0; n &lt; 4; n++)//read EEPROM,begin with 4
     HUMLOWER.b[n] = EEPROM.read(n + 4);
 ```
 ```C
